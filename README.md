@@ -20,6 +20,13 @@ Nexgen SIEM (Security Information and Event Management) is a cross-platform desk
 
 This project is part of a group academic effort and may be used in evaluations or extended in future research. To maintain integrity and prevent misuse, we are keeping the repository private.
 
+## 👨‍💻 Team Members
+
+- **Manthan Nanaware**
+- **Aryan Parab**
+- **Kaustubh Gaikwad**
+- **Anish Mhatre**
+
 ## 📸 Screenshots
 
 Logs Dashboard<img width="1298" height="676" alt="1" src="https://github.com/user-attachments/assets/b74ea56e-ec41-4184-8943-4ab4c7db0ff0" />
